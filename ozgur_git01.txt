@@ -1,0 +1,3 @@
+ikinci git test
+git repoya gonderilecek
+linux da olusturulan dosya
